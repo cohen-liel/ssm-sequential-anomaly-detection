@@ -1,0 +1,54 @@
+{
+  "experiment": "Griffin (RecurrentGemma) vs Transformer ECG Anomaly Detection",
+  "hardware": "Google Colab T4 GPU (15.6 GB VRAM)",
+  "framework": "PyTorch 2.10.0+cu128, CUDA 12.8",
+  "dataset": {
+    "total_beats": 109451,
+    "normal": 90593,
+    "abnormal": 18858,
+    "train": 76615,
+    "val": 16418,
+    "test": 16418,
+    "records": 48,
+    "source": "MIT-BIH Arrhythmia Database (PhysioNet)"
+  },
+  "griffin": {
+    "architecture": "RG-LRU + Local Sliding Window Attention (hybrid)",
+    "params": 404546,
+    "best_val_f1": 0.8908,
+    "best_val_acc": 0.9572,
+    "avg_epoch_time_s": 389.44,
+    "latency_ms": {
+      "mean": 72.276,
+      "median": 67.288,
+      "p95": 98.791,
+      "p99": 112.195
+    },
+    "max_seq_length": 4096,
+    "memory_at_4096": "617.5 MB"
+  },
+  "transformer": {
+    "architecture": "Standard Multi-Head Self-Attention",
+    "params": 337090,
+    "best_val_f1": 0.892,
+    "best_val_acc": 0.958,
+    "avg_epoch_time_s": 245.0,
+    "latency_ms": {
+      "mean": 2.225,
+      "median": 2.192,
+      "p95": 2.645,
+      "p99": 3.415
+    },
+    "max_seq_length": 512,
+    "memory_at_512": "25.1 MB",
+    "oom_at": 1024
+  },
+  "key_findings": [
+    "Griffin handles 8x longer sequences than Transformer before OOM (4096 vs 512)",
+    "Both models achieve similar accuracy (~95.7% vs ~95.8%) on ECG anomaly detection",
+    "Both models achieve similar F1 scores (~0.89)",
+    "Transformer has lower single-sample latency (2.2ms vs 72.3ms) at short sequences",
+    "Griffin memory scales linearly O(n) while Transformer scales quadratically O(n\u00b2)",
+    "For real-time ECG monitoring with long sequences, Griffin is the clear winner"
+  ]
+}

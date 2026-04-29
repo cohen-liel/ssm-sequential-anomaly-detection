@@ -1,0 +1,1403 @@
+{
+  "griffin": {
+    "events_detected": 67,
+    "events_total": 67,
+    "ticks_per_sec": 534.1224109725313,
+    "detections": [
+      {
+        "index": 1216,
+        "time": "2025-12-26 02:31:00",
+        "price": 89365.26,
+        "pct_change": 2.311,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 677.651611328125
+      },
+      {
+        "index": 1980,
+        "time": "2025-12-26 15:15:00",
+        "price": 86699.12,
+        "pct_change": -2.519,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 110,
+        "peak_score": 411.4515075683594
+      },
+      {
+        "index": 5975,
+        "time": "2025-12-29 09:50:00",
+        "price": 87869.59,
+        "pct_change": -2.039,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 113,
+        "peak_score": 339.38519287109375
+      },
+      {
+        "index": 28367,
+        "time": "2026-01-13 23:02:00",
+        "price": 96015.99,
+        "pct_change": 2.027,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 113,
+        "peak_score": 803.9357299804688
+      },
+      {
+        "index": 35627,
+        "time": "2026-01-19 00:02:00",
+        "price": 92209.91,
+        "pct_change": -3.297,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 119,
+        "peak_score": 1204.883544921875
+      },
+      {
+        "index": 39524,
+        "time": "2026-01-21 16:59:00",
+        "price": 87602.4,
+        "pct_change": -2.975,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 254.04148864746094
+      },
+      {
+        "index": 39682,
+        "time": "2026-01-21 19:37:00",
+        "price": 90092.08,
+        "pct_change": 2.345,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 109,
+        "peak_score": 794.4620971679688
+      },
+      {
+        "index": 50973,
+        "time": "2026-01-29 15:48:00",
+        "price": 84493.61,
+        "pct_change": -3.78,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 119,
+        "peak_score": 848.1159057617188
+      },
+      {
+        "index": 51567,
+        "time": "2026-01-30 01:42:00",
+        "price": 81234.0,
+        "pct_change": -3.77,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 685.3466796875
+      },
+      {
+        "index": 52627,
+        "time": "2026-01-30 19:22:00",
+        "price": 84456.94,
+        "pct_change": 3.08,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 115,
+        "peak_score": 202.07919311523438
+      },
+      {
+        "index": 53789,
+        "time": "2026-01-31 14:44:00",
+        "price": 80995.78,
+        "pct_change": -2.001,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 768.2801513671875
+      },
+      {
+        "index": 54028,
+        "time": "2026-01-31 18:43:00",
+        "price": 75777.77,
+        "pct_change": -3.867,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 661.9832153320312
+      },
+      {
+        "index": 55795,
+        "time": "2026-02-02 00:10:00",
+        "price": 77456.0,
+        "pct_change": 2.169,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 111,
+        "peak_score": 461.55340576171875
+      },
+      {
+        "index": 56004,
+        "time": "2026-02-02 03:39:00",
+        "price": 74629.73,
+        "pct_change": -3.133,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 109,
+        "peak_score": 196.40359497070312
+      },
+      {
+        "index": 56243,
+        "time": "2026-02-02 07:38:00",
+        "price": 76645.97,
+        "pct_change": 2.249,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 104,
+        "peak_score": 366.80035400390625
+      },
+      {
+        "index": 58366,
+        "time": "2026-02-03 19:01:00",
+        "price": 72955.4,
+        "pct_change": -2.82,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 166.21791076660156
+      },
+      {
+        "index": 58494,
+        "time": "2026-02-03 21:09:00",
+        "price": 76940.9,
+        "pct_change": 3.087,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 153.7896270751953
+      },
+      {
+        "index": 59714,
+        "time": "2026-02-04 17:29:00",
+        "price": 72473.56,
+        "pct_change": -2.261,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 154.3852996826172
+      },
+      {
+        "index": 59991,
+        "time": "2026-02-04 22:06:00",
+        "price": 71920.9,
+        "pct_change": -2.015,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 110,
+        "peak_score": 365.2505798339844
+      },
+      {
+        "index": 60795,
+        "time": "2026-02-05 11:30:00",
+        "price": 69948.64,
+        "pct_change": -2.431,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 114,
+        "peak_score": 634.19189453125
+      },
+      {
+        "index": 61042,
+        "time": "2026-02-05 15:37:00",
+        "price": 67137.03,
+        "pct_change": -4.974,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 100,
+        "peak_score": 283.6643981933594
+      },
+      {
+        "index": 61182,
+        "time": "2026-02-05 17:57:00",
+        "price": 66251.91,
+        "pct_change": -3.124,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 102,
+        "peak_score": 159.48208618164062
+      },
+      {
+        "index": 61359,
+        "time": "2026-02-05 20:54:00",
+        "price": 62556.64,
+        "pct_change": -4.219,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 119,
+        "peak_score": 846.8745727539062
+      },
+      {
+        "index": 61619,
+        "time": "2026-02-06 01:14:00",
+        "price": 64325.16,
+        "pct_change": 6.754,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 100,
+        "peak_score": 367.5582275390625
+      },
+      {
+        "index": 61968,
+        "time": "2026-02-06 07:03:00",
+        "price": 64709.4,
+        "pct_change": -3.057,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 112,
+        "peak_score": 65.26473236083984
+      },
+      {
+        "index": 62120,
+        "time": "2026-02-06 09:35:00",
+        "price": 66076.48,
+        "pct_change": 2.164,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 152.31488037109375
+      },
+      {
+        "index": 62469,
+        "time": "2026-02-06 15:24:00",
+        "price": 68470.0,
+        "pct_change": 2.7,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 66.53022003173828
+      },
+      {
+        "index": 62657,
+        "time": "2026-02-06 18:32:00",
+        "price": 69448.31,
+        "pct_change": -2.84,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 108,
+        "peak_score": 65.15618133544922
+      },
+      {
+        "index": 62991,
+        "time": "2026-02-07 00:06:00",
+        "price": 70073.4,
+        "pct_change": -2.246,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 114,
+        "peak_score": 251.98666381835938
+      },
+      {
+        "index": 63422,
+        "time": "2026-02-07 07:17:00",
+        "price": 67356.38,
+        "pct_change": -3.79,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 1103.4923095703125
+      },
+      {
+        "index": 63724,
+        "time": "2026-02-07 12:19:00",
+        "price": 69864.75,
+        "pct_change": 2.669,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 101,
+        "peak_score": 126.6162109375
+      },
+      {
+        "index": 65872,
+        "time": "2026-02-09 00:07:00",
+        "price": 70436.04,
+        "pct_change": -2.422,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 110,
+        "peak_score": 936.5140991210938
+      },
+      {
+        "index": 68246,
+        "time": "2026-02-10 15:41:00",
+        "price": 69519.72,
+        "pct_change": 2.167,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 477.2215881347656
+      },
+      {
+        "index": 69658,
+        "time": "2026-02-11 15:13:00",
+        "price": 65806.0,
+        "pct_change": -3.768,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 781.85205078125
+      },
+      {
+        "index": 71176,
+        "time": "2026-02-12 16:31:00",
+        "price": 65958.83,
+        "pct_change": -2.939,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 105.26667022705078
+      },
+      {
+        "index": 72566,
+        "time": "2026-02-13 15:41:00",
+        "price": 68927.99,
+        "pct_change": 3.031,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 132.2777099609375
+      },
+      {
+        "index": 75315,
+        "time": "2026-02-15 13:30:00",
+        "price": 68962.18,
+        "pct_change": -2.058,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 293.785400390625
+      },
+      {
+        "index": 76788,
+        "time": "2026-02-16 14:03:00",
+        "price": 68329.08,
+        "pct_change": -2.429,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 1031.05126953125
+      },
+      {
+        "index": 78278,
+        "time": "2026-02-17 14:53:00",
+        "price": 66747.06,
+        "pct_change": -2.082,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 118,
+        "peak_score": 434.8822326660156
+      },
+      {
+        "index": 86139,
+        "time": "2026-02-23 01:54:00",
+        "price": 64448.53,
+        "pct_change": -4.026,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 118,
+        "peak_score": 437.4455871582031
+      },
+      {
+        "index": 87542,
+        "time": "2026-02-24 01:17:00",
+        "price": 63501.37,
+        "pct_change": -2.197,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 688.4655151367188
+      },
+      {
+        "index": 88986,
+        "time": "2026-02-25 01:21:00",
+        "price": 66235.34,
+        "pct_change": 3.499,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 113,
+        "peak_score": 714.3228759765625
+      },
+      {
+        "index": 91280,
+        "time": "2026-02-26 15:35:00",
+        "price": 66848.65,
+        "pct_change": -2.009,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 384.1883239746094
+      },
+      {
+        "index": 93642,
+        "time": "2026-02-28 06:57:00",
+        "price": 63120.41,
+        "pct_change": -3.678,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 731.9337158203125
+      },
+      {
+        "index": 94797,
+        "time": "2026-03-01 02:12:00",
+        "price": 67971.71,
+        "pct_change": 2.591,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 114,
+        "peak_score": 781.2119140625
+      },
+      {
+        "index": 97028,
+        "time": "2026-03-02 15:23:00",
+        "price": 68671.5,
+        "pct_change": 4.964,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 119,
+        "peak_score": 304.1258850097656
+      },
+      {
+        "index": 98530,
+        "time": "2026-03-03 16:25:00",
+        "price": 68954.59,
+        "pct_change": 3.343,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 160.79098510742188
+      },
+      {
+        "index": 99562,
+        "time": "2026-03-04 09:37:00",
+        "price": 71811.99,
+        "pct_change": 3.325,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 112,
+        "peak_score": 462.2109069824219
+      },
+      {
+        "index": 99943,
+        "time": "2026-03-04 15:58:00",
+        "price": 73467.08,
+        "pct_change": 2.657,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 214.3436279296875
+      },
+      {
+        "index": 102742,
+        "time": "2026-03-06 14:37:00",
+        "price": 68402.07,
+        "pct_change": -2.526,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 114,
+        "peak_score": 927.0552978515625
+      },
+      {
+        "index": 106069,
+        "time": "2026-03-08 22:04:00",
+        "price": 65775.36,
+        "pct_change": -2.172,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 944.1519165039062
+      },
+      {
+        "index": 106384,
+        "time": "2026-03-09 03:19:00",
+        "price": 67639.7,
+        "pct_change": 2.434,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 119,
+        "peak_score": 497.1586608886719
+      },
+      {
+        "index": 107794,
+        "time": "2026-03-10 02:49:00",
+        "price": 70564.78,
+        "pct_change": 2.203,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 79,
+        "peak_score": 897.2647094726562
+      },
+      {
+        "index": 108526,
+        "time": "2026-03-10 15:01:00",
+        "price": 71469.75,
+        "pct_change": 2.642,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 344.26446533203125
+      },
+      {
+        "index": 109884,
+        "time": "2026-03-11 13:39:00",
+        "price": 71003.33,
+        "pct_change": 2.399,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 112,
+        "peak_score": 1061.959716796875
+      },
+      {
+        "index": 116484,
+        "time": "2026-03-16 03:39:00",
+        "price": 73996.87,
+        "pct_change": 2.162,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 110,
+        "peak_score": 793.3737182617188
+      },
+      {
+        "index": 124906,
+        "time": "2026-03-22 00:01:00",
+        "price": 68384.83,
+        "pct_change": -2.675,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 115,
+        "peak_score": 1128.877685546875
+      },
+      {
+        "index": 127017,
+        "time": "2026-03-23 11:12:00",
+        "price": 71336.94,
+        "pct_change": 3.886,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 111,
+        "peak_score": 1100.9207763671875
+      },
+      {
+        "index": 132760,
+        "time": "2026-03-27 10:55:00",
+        "price": 66429.2,
+        "pct_change": -2.022,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 107,
+        "peak_score": 901.5661010742188
+      },
+      {
+        "index": 136354,
+        "time": "2026-03-29 22:49:00",
+        "price": 65045.73,
+        "pct_change": -2.463,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 118,
+        "peak_score": 1050.3895263671875
+      },
+      {
+        "index": 137959,
+        "time": "2026-03-31 01:34:00",
+        "price": 68338.18,
+        "pct_change": 2.302,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 314.6470031738281
+      },
+      {
+        "index": 138899,
+        "time": "2026-03-31 17:14:00",
+        "price": 68454.01,
+        "pct_change": 2.275,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 108,
+        "peak_score": 297.94549560546875
+      },
+      {
+        "index": 140858,
+        "time": "2026-04-02 01:53:00",
+        "price": 67220.71,
+        "pct_change": -2.026,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 114,
+        "peak_score": 870.2465209960938
+      },
+      {
+        "index": 146481,
+        "time": "2026-04-05 23:36:00",
+        "price": 69078.06,
+        "pct_change": 2.334,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 118,
+        "peak_score": 826.93212890625
+      },
+      {
+        "index": 149354,
+        "time": "2026-04-07 23:29:00",
+        "price": 72753.27,
+        "pct_change": 3.315,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 111,
+        "peak_score": 1015.3099975585938
+      },
+      {
+        "index": 151759,
+        "time": "2026-04-09 15:34:00",
+        "price": 72201.28,
+        "pct_change": 2.184,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 214.84832763671875
+      },
+      {
+        "index": 155269,
+        "time": "2026-04-12 02:04:00",
+        "price": 71429.32,
+        "pct_change": -2.212,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 846.6791381835938
+      }
+    ]
+  },
+  "transformer": {
+    "events_detected": 67,
+    "events_total": 67,
+    "detections": [
+      {
+        "index": 1216,
+        "time": "2025-12-26 02:31:00",
+        "price": 89365.26,
+        "pct_change": 2.311,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 330.3928124197981
+      },
+      {
+        "index": 1980,
+        "time": "2025-12-26 15:15:00",
+        "price": 86699.12,
+        "pct_change": -2.519,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 110,
+        "peak_score": 198.01355426019302
+      },
+      {
+        "index": 5975,
+        "time": "2025-12-29 09:50:00",
+        "price": 87869.59,
+        "pct_change": -2.039,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 113,
+        "peak_score": 147.78365928923282
+      },
+      {
+        "index": 28367,
+        "time": "2026-01-13 23:02:00",
+        "price": 96015.99,
+        "pct_change": 2.027,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 113,
+        "peak_score": 329.65663487518236
+      },
+      {
+        "index": 35627,
+        "time": "2026-01-19 00:02:00",
+        "price": 92209.91,
+        "pct_change": -3.297,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 536.1951875094683
+      },
+      {
+        "index": 39524,
+        "time": "2026-01-21 16:59:00",
+        "price": 87602.4,
+        "pct_change": -2.975,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 100.41715598617643
+      },
+      {
+        "index": 39682,
+        "time": "2026-01-21 19:37:00",
+        "price": 90092.08,
+        "pct_change": 2.345,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 109,
+        "peak_score": 331.94740716266216
+      },
+      {
+        "index": 50973,
+        "time": "2026-01-29 15:48:00",
+        "price": 84493.61,
+        "pct_change": -3.78,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 367.122213426171
+      },
+      {
+        "index": 51567,
+        "time": "2026-01-30 01:42:00",
+        "price": 81234.0,
+        "pct_change": -3.77,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 115,
+        "peak_score": 275.1628054611238
+      },
+      {
+        "index": 52627,
+        "time": "2026-01-30 19:22:00",
+        "price": 84456.94,
+        "pct_change": 3.08,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 115,
+        "peak_score": 77.74087952011241
+      },
+      {
+        "index": 53789,
+        "time": "2026-01-31 14:44:00",
+        "price": 80995.78,
+        "pct_change": -2.001,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 353.54854385579756
+      },
+      {
+        "index": 54028,
+        "time": "2026-01-31 18:43:00",
+        "price": 75777.77,
+        "pct_change": -3.867,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 279.7829090851545
+      },
+      {
+        "index": 55795,
+        "time": "2026-02-02 00:10:00",
+        "price": 77456.0,
+        "pct_change": 2.169,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 110,
+        "peak_score": 183.7555122316769
+      },
+      {
+        "index": 56004,
+        "time": "2026-02-02 03:39:00",
+        "price": 74629.73,
+        "pct_change": -3.133,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 100,
+        "peak_score": 78.17628542825673
+      },
+      {
+        "index": 56243,
+        "time": "2026-02-02 07:38:00",
+        "price": 76645.97,
+        "pct_change": 2.249,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 105,
+        "peak_score": 149.99937683905583
+      },
+      {
+        "index": 58366,
+        "time": "2026-02-03 19:01:00",
+        "price": 72955.4,
+        "pct_change": -2.82,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 64.69980566360455
+      },
+      {
+        "index": 58494,
+        "time": "2026-02-03 21:09:00",
+        "price": 76940.9,
+        "pct_change": 3.087,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 50.06480886069483
+      },
+      {
+        "index": 59714,
+        "time": "2026-02-04 17:29:00",
+        "price": 72473.56,
+        "pct_change": -2.261,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 112,
+        "peak_score": 50.48781157734985
+      },
+      {
+        "index": 59991,
+        "time": "2026-02-04 22:06:00",
+        "price": 71920.9,
+        "pct_change": -2.015,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 110,
+        "peak_score": 117.53539331613015
+      },
+      {
+        "index": 60795,
+        "time": "2026-02-05 11:30:00",
+        "price": 69948.64,
+        "pct_change": -2.431,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 114,
+        "peak_score": 261.205958794893
+      },
+      {
+        "index": 61042,
+        "time": "2026-02-05 15:37:00",
+        "price": 67137.03,
+        "pct_change": -4.974,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 98,
+        "peak_score": 104.95231179593725
+      },
+      {
+        "index": 61182,
+        "time": "2026-02-05 17:57:00",
+        "price": 66251.91,
+        "pct_change": -3.124,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 94,
+        "peak_score": 50.713984441986
+      },
+      {
+        "index": 61359,
+        "time": "2026-02-05 20:54:00",
+        "price": 62556.64,
+        "pct_change": -4.219,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 119,
+        "peak_score": 331.96973567077214
+      },
+      {
+        "index": 61619,
+        "time": "2026-02-06 01:14:00",
+        "price": 64325.16,
+        "pct_change": 6.754,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 100,
+        "peak_score": 119.9039745590575
+      },
+      {
+        "index": 61968,
+        "time": "2026-02-06 07:03:00",
+        "price": 64709.4,
+        "pct_change": -3.057,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 103,
+        "peak_score": 19.770934791148505
+      },
+      {
+        "index": 62120,
+        "time": "2026-02-06 09:35:00",
+        "price": 66076.48,
+        "pct_change": 2.164,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 66,
+        "peak_score": 55.68199919929197
+      },
+      {
+        "index": 62469,
+        "time": "2026-02-06 15:24:00",
+        "price": 68470.0,
+        "pct_change": 2.7,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 96,
+        "peak_score": 15.85124072617618
+      },
+      {
+        "index": 62657,
+        "time": "2026-02-06 18:32:00",
+        "price": 69448.31,
+        "pct_change": -2.84,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 108,
+        "peak_score": 19.507729672086164
+      },
+      {
+        "index": 62991,
+        "time": "2026-02-07 00:06:00",
+        "price": 70073.4,
+        "pct_change": -2.246,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 97,
+        "peak_score": 105.34119076742174
+      },
+      {
+        "index": 63422,
+        "time": "2026-02-07 07:17:00",
+        "price": 67356.38,
+        "pct_change": -3.79,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 466.6623341231661
+      },
+      {
+        "index": 63724,
+        "time": "2026-02-07 12:19:00",
+        "price": 69864.75,
+        "pct_change": 2.669,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 101,
+        "peak_score": 45.607742955019084
+      },
+      {
+        "index": 65872,
+        "time": "2026-02-09 00:07:00",
+        "price": 70436.04,
+        "pct_change": -2.422,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 110,
+        "peak_score": 405.2638373019148
+      },
+      {
+        "index": 68246,
+        "time": "2026-02-10 15:41:00",
+        "price": 69519.72,
+        "pct_change": 2.167,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 203.40237020220752
+      },
+      {
+        "index": 69658,
+        "time": "2026-02-11 15:13:00",
+        "price": 65806.0,
+        "pct_change": -3.768,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 339.5782300778272
+      },
+      {
+        "index": 71176,
+        "time": "2026-02-12 16:31:00",
+        "price": 65958.83,
+        "pct_change": -2.939,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 36.937198218114744
+      },
+      {
+        "index": 72566,
+        "time": "2026-02-13 15:41:00",
+        "price": 68927.99,
+        "pct_change": 3.031,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 51.75992858518913
+      },
+      {
+        "index": 75315,
+        "time": "2026-02-15 13:30:00",
+        "price": 68962.18,
+        "pct_change": -2.058,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 136.35161051982246
+      },
+      {
+        "index": 76788,
+        "time": "2026-02-16 14:03:00",
+        "price": 68329.08,
+        "pct_change": -2.429,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 459.706193241007
+      },
+      {
+        "index": 78278,
+        "time": "2026-02-17 14:53:00",
+        "price": 66747.06,
+        "pct_change": -2.082,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 118,
+        "peak_score": 185.11814075795203
+      },
+      {
+        "index": 86139,
+        "time": "2026-02-23 01:54:00",
+        "price": 64448.53,
+        "pct_change": -4.026,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 118,
+        "peak_score": 154.3049469490919
+      },
+      {
+        "index": 87542,
+        "time": "2026-02-24 01:17:00",
+        "price": 63501.37,
+        "pct_change": -2.197,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 277.33388441758837
+      },
+      {
+        "index": 88986,
+        "time": "2026-02-25 01:21:00",
+        "price": 66235.34,
+        "pct_change": 3.499,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 94,
+        "peak_score": 309.4033884191406
+      },
+      {
+        "index": 91280,
+        "time": "2026-02-26 15:35:00",
+        "price": 66848.65,
+        "pct_change": -2.009,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 160.31743202068287
+      },
+      {
+        "index": 93642,
+        "time": "2026-02-28 06:57:00",
+        "price": 63120.41,
+        "pct_change": -3.678,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 115,
+        "peak_score": 353.4094512516472
+      },
+      {
+        "index": 94797,
+        "time": "2026-03-01 02:12:00",
+        "price": 67971.71,
+        "pct_change": 2.591,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 114,
+        "peak_score": 350.1432989861361
+      },
+      {
+        "index": 97028,
+        "time": "2026-03-02 15:23:00",
+        "price": 68671.5,
+        "pct_change": 4.964,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 119,
+        "peak_score": 129.2703323510817
+      },
+      {
+        "index": 98530,
+        "time": "2026-03-03 16:25:00",
+        "price": 68954.59,
+        "pct_change": 3.343,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 63.438088361068964
+      },
+      {
+        "index": 99562,
+        "time": "2026-03-04 09:37:00",
+        "price": 71811.99,
+        "pct_change": 3.325,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 112,
+        "peak_score": 163.26472139975237
+      },
+      {
+        "index": 99943,
+        "time": "2026-03-04 15:58:00",
+        "price": 73467.08,
+        "pct_change": 2.657,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 118,
+        "peak_score": 83.36042337926322
+      },
+      {
+        "index": 102742,
+        "time": "2026-03-06 14:37:00",
+        "price": 68402.07,
+        "pct_change": -2.526,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 111,
+        "peak_score": 414.47843677252325
+      },
+      {
+        "index": 106069,
+        "time": "2026-03-08 22:04:00",
+        "price": 65775.36,
+        "pct_change": -2.172,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 412.6725541991147
+      },
+      {
+        "index": 106384,
+        "time": "2026-03-09 03:19:00",
+        "price": 67639.7,
+        "pct_change": 2.434,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 119,
+        "peak_score": 213.01062937685376
+      },
+      {
+        "index": 107794,
+        "time": "2026-03-10 02:49:00",
+        "price": 70564.78,
+        "pct_change": 2.203,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 78,
+        "peak_score": 404.50481540906776
+      },
+      {
+        "index": 108526,
+        "time": "2026-03-10 15:01:00",
+        "price": 71469.75,
+        "pct_change": 2.642,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 117,
+        "peak_score": 149.81203476069754
+      },
+      {
+        "index": 109884,
+        "time": "2026-03-11 13:39:00",
+        "price": 71003.33,
+        "pct_change": 2.399,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 111,
+        "peak_score": 468.5005672413281
+      },
+      {
+        "index": 116484,
+        "time": "2026-03-16 03:39:00",
+        "price": 73996.87,
+        "pct_change": 2.162,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 85,
+        "peak_score": 350.976454473566
+      },
+      {
+        "index": 124906,
+        "time": "2026-03-22 00:01:00",
+        "price": 68384.83,
+        "pct_change": -2.675,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 115,
+        "peak_score": 516.5560487178964
+      },
+      {
+        "index": 127017,
+        "time": "2026-03-23 11:12:00",
+        "price": 71336.94,
+        "pct_change": 3.886,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 111,
+        "peak_score": 491.6497032929189
+      },
+      {
+        "index": 132760,
+        "time": "2026-03-27 10:55:00",
+        "price": 66429.2,
+        "pct_change": -2.022,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 107,
+        "peak_score": 404.61575788088146
+      },
+      {
+        "index": 136354,
+        "time": "2026-03-29 22:49:00",
+        "price": 65045.73,
+        "pct_change": -2.463,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 109,
+        "peak_score": 483.4659734591101
+      },
+      {
+        "index": 137959,
+        "time": "2026-03-31 01:34:00",
+        "price": 68338.18,
+        "pct_change": 2.302,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 142.37360178793548
+      },
+      {
+        "index": 138899,
+        "time": "2026-03-31 17:14:00",
+        "price": 68454.01,
+        "pct_change": 2.275,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 128.1217866865985
+      },
+      {
+        "index": 140858,
+        "time": "2026-04-02 01:53:00",
+        "price": 67220.71,
+        "pct_change": -2.026,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 114,
+        "peak_score": 390.18163014236944
+      },
+      {
+        "index": 146481,
+        "time": "2026-04-05 23:36:00",
+        "price": 69078.06,
+        "pct_change": 2.334,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 116,
+        "peak_score": 384.3182597115723
+      },
+      {
+        "index": 149354,
+        "time": "2026-04-07 23:29:00",
+        "price": 72753.27,
+        "pct_change": 3.315,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 111,
+        "peak_score": 454.6134142600643
+      },
+      {
+        "index": 151759,
+        "time": "2026-04-09 15:34:00",
+        "price": 72201.28,
+        "pct_change": 2.184,
+        "direction": "PUMP",
+        "detected": true,
+        "early_warning_ticks": 120,
+        "peak_score": 80.50166506102083
+      },
+      {
+        "index": 155269,
+        "time": "2026-04-12 02:04:00",
+        "price": 71429.32,
+        "pct_change": -2.212,
+        "direction": "CRASH",
+        "detected": true,
+        "early_warning_ticks": 111,
+        "peak_score": 404.66623652132813
+      }
+    ]
+  },
+  "memory_scaling": {
+    "griffin": {
+      "256": 83.0,
+      "512": 160.7,
+      "1024": 321.2,
+      "2048": 622.5,
+      "4096": 1297.8,
+      "8192": 2551.8,
+      "16384": 5172.4,
+      "32768": 10478.9
+    },
+    "transformer": {
+      "256": 1.1,
+      "512": 0.9,
+      "1024": 0.9,
+      "2048": 1.1,
+      "4096": 1.2,
+      "8192": "OOM",
+      "16384": "OOM",
+      "32768": "OOM"
+    },
+    "griffin_mem": {
+      "256": 1.5,
+      "512": 1.7,
+      "1024": 2.1,
+      "2048": 2.9,
+      "4096": 4.4,
+      "8192": 7.6,
+      "16384": 13.9,
+      "32768": 26.5
+    },
+    "transformer_mem": {
+      "256": 2.9,
+      "512": 6.3,
+      "1024": 19.3,
+      "2048": 70.4,
+      "4096": 273.3,
+      "8192": 1081.7,
+      "16384": 4309.3,
+      "32768": 17206.7
+    }
+  },
+  "config": {
+    "d_model": 64,
+    "n_layers": 3,
+    "seq_len": 512,
+    "device": "mps"
+  }
+}

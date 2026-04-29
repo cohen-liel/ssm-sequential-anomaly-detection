@@ -1,0 +1,6 @@
+torch>=2.2.0
+numpy>=1.26.0
+pandas>=2.2.0
+pymysql>=1.1.0
+rich>=13.7.0
+scikit-learn>=1.4.0
